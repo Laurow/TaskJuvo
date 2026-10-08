@@ -322,7 +322,8 @@ def main():
     prs.slide_height = Inches(SLIDE_H)
     prs.core_properties.title = "TaskJuvo prototype walkthrough"
     prs.core_properties.subject = "Annotated navigation guide for expert review"
-    prs.core_properties.author = "TaskJuvo"
+    prs.core_properties.author = "ChatGPT"
+    prs.core_properties.last_modified_by = "ChatGPT"
     add_cover(prs)
     slide_start(prs)
     slide_define(prs)
