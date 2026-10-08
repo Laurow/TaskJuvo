@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+.next/
+out/
+playwright-report/
+test-results/
+artifacts/
+*.tsbuildinfo
+.env*.local
